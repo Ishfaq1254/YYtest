@@ -9,7 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.15.4"
+    "nuxt": "^2.13.3"
   },
   "devDependencies": {
     "@luxdamore/vue-cursor-fx": "^1.4.0",
@@ -29,5 +29,8 @@
     "sass": "^1.32.8",
     "sass-loader": "^10.1.1",
     "vue-typed-js": "^0.1.2"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
   }
 }
